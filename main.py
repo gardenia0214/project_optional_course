@@ -14,7 +14,7 @@ pg.display.set_icon(image_tomato)
 
 
 ##### initialize end
-##### define classes
+##### define class
 
 class Ball:
     def __init__(self,x,y,Radius,mass):
